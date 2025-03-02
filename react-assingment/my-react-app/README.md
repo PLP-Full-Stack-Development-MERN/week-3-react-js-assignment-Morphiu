@@ -7,6 +7,7 @@ git clone <repository url>
 
 - Install necessary dependencies
 ```
+cd my-react-app
 npm install
 ```
 
